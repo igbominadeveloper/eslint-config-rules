@@ -1,14 +1,14 @@
 {
-  "name": "@igbominadeveloper/eslint-config-vuets",
+  "name": "@igbominadeveloper/eslint-config-rules",
   "version": "1.0.0",
-  "description": "eslint configuration for vue+ts",
+  "description": "reusable eslint configuration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igbominadeveloper/eslint-config-vuets.git"
+    "url": "git+https://github.com/igbominadeveloper/eslint-config-rules.git"
   },
   "keywords": [
     "eslint",
@@ -18,19 +18,10 @@
   "author": "Favour Afolayan (@igbominadeveloper)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/igbominadeveloper/eslint-config-vuets/issues"
+    "url": "https://github.com/igbominadeveloper/eslint-config-rules/issues"
   },
-  "homepage": "https://github.com/igbominadeveloper/eslint-config-vuets#readme",
+  "homepage": "https://github.com/igbominadeveloper/eslint-config-rules#readme",
   "peerDependencies": {
-    "eslint": ">= 5"
-  },
-  "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.18.0",
-    "@typescript-eslint/parser": "^2.18.0",
-    "@vue/eslint-config-prettier": "^6.0.0",
-    "@vue/eslint-config-typescript": "^5.0.1",
-    "eslint-plugin-prettier": "^3.1.1",
-    "eslint-plugin-vue": "^6.1.2",
-    "typescript": "~3.7.5"
+    "eslint": ">= 3"
   }
 }
