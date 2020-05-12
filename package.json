@@ -1,6 +1,6 @@
 {
   "name": "@igbominadeveloper/eslint-config-rules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "reusable eslint configuration",
   "main": "index.js",
   "scripts": {
