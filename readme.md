@@ -1,8 +1,8 @@
-#### Eslint Config Rules
+## Eslint Config Rules
 
 Eslint Config Rules is a package that you helps you with some basic code formatting rules in your configuration instead of adding them manually from project to project
 
-#### current rules
+## Current rules
 
 - No Console : https://eslint.org/docs/rules/no-console
 - No Debugger : https://eslint.org/docs/rules/no-debugger
@@ -16,16 +16,18 @@ Eslint Config Rules is a package that you helps you with some basic code formatt
 
 To install:
 
-```
+```javascript
 npm install --save @igbominadeveloper/eslint-config-rules
-then add the package to your current eslint config file i.e.
-extends: ['@igbominadeveloper/eslint-config-rules']
-
 ```
+Include the package in your current eslint config file
+```javascript 
+extends: ['@igbominadeveloper/eslint-config-rules']
+```
+
 
 ## Documentation
 
-https://github.com/igbominadeveloper/eslint-config-rules/blob/master/readme.md
+https://github.com/igbominadeveloper/eslint-config-rules/readme.md
 
 ## Issues
 
@@ -39,7 +41,7 @@ Feel free to send a PR.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/12516195?s=460&u=181cb90d244e32bc99ffce2fb5e2bc2799f2301d&v=4" width="100px;"/><br /><sub><b>Favour Afolayan</b></sub>](https://github.com/igbominadeveloper)<br />[💻](https://github.com/igbominadeveloper/eslint-config-rules/commits?author=igbominadeveloper "Code")
+[<img src="https://avatars2.githubusercontent.com/u/12516195?s=460&u=181cb90d244e32bc99ffce2fb5e2bc2799f2301d&v=4" width="100px;"/><br /><sub><b>Favour Afolayan</b></sub>](https://github.com/igbominadeveloper)<br />[💻](https://github.com/igbominadeveloper/eslint-config-rules/commits?author=igbominadeveloper "Code")
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
