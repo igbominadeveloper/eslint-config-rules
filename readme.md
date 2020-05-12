@@ -9,8 +9,8 @@ Eslint Config Rules is a package that you helps you with some basic code formatt
 - Lines between class members : https://eslint.org/docs/rules/lines-between-class-members
 - Padding line between statements : https://eslint.org/docs/rules/padding-line-between-statements
 
-[![npm version](https://img.shields.io/npm/v/pimg.svg?style=flat-square)](https://www.npmjs.com/package/@igbominadeveloper/eslint-config-rules)
-[![npm downloads](https://img.shields.io/npm/dm/pimg.svg?style=flat-square)](https://www.npmjs.com/package/@igbominadeveloper/eslint-config-rules)
+[![npm version](https://img.shields.io/npm/v/@igbominadeveloper/eslint-config-rules)](https://www.npmjs.com/package/@igbominadeveloper/eslint-config-rules)
+[![npm downloads](https://img.shields.io/npm/dm/@igbominadeveloper/eslint-config-rules?style=flat-square)](https://www.npmjs.com/package/@igbominadeveloper/eslint-config-rules)
 
 ## Installation
 
